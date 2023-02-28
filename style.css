@@ -31,6 +31,7 @@ button:hover {
 body {
   font-family: sans-serif;
   width: 1250px;
+  margin: 0 auto;
 }
 
 header {
@@ -276,7 +277,7 @@ footer {
 footer div {
   display: flex;
   flex-direction: column;
-  ustify-content: space-around;
+  justify-content: space-around;
 }
 footer span {
   font-weight: bold;
